@@ -1,0 +1,79 @@
+TITULO DO POSCAST
+
+PROMPT:
+- Dê 5 sugestões para titulo de um podcast. O tema principal será sobre programação e tecnologia. o publico alvo são iniciantes e intermediários da programação. Use nomes que faça referencia a cultura nerd como O senhor dos anéis.
+Não use palavras em ingles que sejam de dificil pronuncia, por exmeplo:
+though, schedule, squirrel, coronel, etc
+RESULTADO:
+- Claro, Victor! Aqui vão 5 sugestões de nomes para seu podcast sobre programação e tecnologia, com referências à cultura nerd (como "O Senhor dos Anéis") e acessíveis para quem está começando:
+
+---
+
+### 1. **Código do Anel**
+
+Referência direta a "O Senhor dos Anéis". Transmite a ideia de um código poderoso que conecta todos os outros — ideal para um podcast que introduz o mundo da programação.
+
+### 2. **Console da Caverna**
+
+Inspiração dupla: "Caverna do Dragão" (Dungeons & Dragons) e o terminal/console usado na programação. Um nome divertido e misterioso, ótimo para atrair quem curte fantasia e tecnologia.
+
+### 3. **Bit e Espada**
+
+Mistura o mundo digital (bit) com o mundo fantástico (espada), sugerindo uma jornada épica de aprendizado com tecnologia como arma.
+
+### 4. **Variáveis e Dragões**
+
+Jogo com "Dungeons & Dragons", mas adaptado ao universo da programação. Um nome descontraído e memorável.
+
+### 5. **Compilando Aventuras**
+
+Faz alusão ao processo de compilar código e à ideia de aventura nerd. Ideal para um conteúdo leve e educativo, com tom de descoberta.
+
+---
+
+Se quiser, posso adaptar os nomes com base em outras referências que você curte — como Star Wars, Harry Potter, Marvel, etc. Quer explorar outras?
+
+
+PROMPT:
+- use termos e palavras que possam fazer referencia ao dia a dia da tecnologia
+RESULTADO:
+- Perfeito, Victor! Com base na sua direção, aqui vão 5 novas sugestões de nomes para o seu podcast que combinam:
+
+* **Referências à cultura nerd**
+* **Termos do dia a dia da tecnologia e da programação**
+* **Facilidade de pronúncia**
+* **Público iniciante e intermediário**
+
+---
+
+### 1. **Debugando a Matrix**
+
+Referência direta ao universo hacker de *Matrix*. "Debugar" é algo comum na vida de qualquer programador. Um nome que passa a ideia de descobrir como o mundo (ou o código) realmente funciona.
+
+---
+
+### 2. **A Jornada do Dev**
+
+Inspirado em “A Jornada do Herói” (muito presente em histórias como *O Senhor dos Anéis* e *Star Wars*), mas aplicada ao desenvolvedor. Remete à evolução de quem começa do zero até se tornar um mestre do código.
+
+---
+
+### 3. **Terminal Nerd**
+
+Jogo com o “terminal” que usamos ao programar e com a ideia de uma central nerd de conhecimento. Fácil de lembrar e cheio de identidade.
+
+---
+
+### 4. **Logs e Lendas**
+
+“Logs” são registros do que acontece no sistema, muito usados em tecnologia. A mistura com “Lendas” traz o tom épico e nerd que você quer.
+
+---
+
+### 5. **Cache dos Anéis**
+
+Trocadilho com “O Senhor dos Anéis” e “cache”, um conceito técnico conhecido. Une bem o mundo da fantasia com o da computação.
+
+---
+
+Se quiser, posso criar variações com foco em outros temas (ex: redes, games, IA, etc.) ou pensar em subtítulos e slogans para o nome que você mais gostar. Qual desses te atrai mais?

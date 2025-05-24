@@ -1,0 +1,6 @@
+coisas para se fazer com java:
+
+- criar método 'lista.sorted()' que retorna a lista.inverted().inverted()
+- por que criar constructor sem atributos e um com atributos?
+- quando usar this. em métodos e quando não precisa usar?
+- quando usar wrapper class(Integer, Double) e quando usar tipo primitivo (int, double)?

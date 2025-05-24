@@ -1,0 +1,24 @@
+ROTEIRO COM VARIAVEIS
+
+ROTEIRO:
+Como um roteirista de um podcast, crie um roteiro para o podcast [TITULO], cujo episodio terá como tema [TEMA] para o publico alvo [PUBLICO_ALVO].
+o formato será:
+[INTRODUÇÃO]
+[CURIOSIDADE TECH]
+[DESENVOLVIMENTO 1]
+[DESENVOLVIMENTO 2]
+[FINALIZAÇÃO]
+
+regras:
+- nos blocos use uma abordagem divertida e com humor;
+- no bloco [TITULO] use = 
+- no bloco [TEMA] use = 
+- no bloco [PUBLICO_ALVO] use = 
+- no bloco [FINALIZAÇÃO] use uma citação do livro/filme [LIVRO_FILME];
+- no bloco [FINALIZAÇÃO] use a despedida "Até o próximo Debugando a Matrix... Fui!"; 
+- use termos de fácil entendimento e explicação;
+- um iniciante deve entender;
+- a duração do podcast deve ser de até 5 minutos
+regras negativas:
+- não ultrapasse 5 minutos;
+- não use termos técnicos ou avançados. 

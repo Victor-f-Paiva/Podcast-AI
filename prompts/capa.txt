@@ -1,0 +1,12 @@
+CAPA
+
+PROMPT:
+- sugira um prompt para gerar uma capa de um podcast, como um engenheiro de prompt, para que uma IA faça uma capa para um podcast que tenha o titulo "Debugando a Matrix" cujo tema é programação e tecnologa como publico alvo iniciantes e intermediarios
+RESUTLADO:
+- Aqui está um prompt otimizado como se fosse criado por um engenheiro de prompt, ideal para gerar uma capa de podcast com uma IA de imagem:
+
+Prompt para IA de imagem:
+
+"Podcast cover art for 'Debugando a Matrix', a tech and programming-themed podcast targeting beginner to intermediate developers. The design should blend digital and futuristic aesthetics with a clean, engaging layout. Include visual elements like code snippets, digital rain inspired by the Matrix movie, circuit lines, or abstract representations of software architecture. The background can be dark (black or deep green) with neon accents (green, blue, or white). The podcast title 'Debugando a Matrix' should be prominently featured in a modern, tech-style font. Include subtle icons like a bug, a terminal window, or binary code to reinforce the programming theme. Artistic, sleek, and eye-catching."
+
+Posso gerar essa imagem para você agora. Deseja que eu faça isso?
