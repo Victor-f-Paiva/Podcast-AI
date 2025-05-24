@@ -167,7 +167,7 @@ Posso também adaptar esse README para **inglês**, caso queira subir a versão 
 
 
 PROMPT:
-Desejo essa versão do readme.me em ingles, por favor
+Desejo essa versão do readme.me em ingles
 
 RESULTADO:
 Claro, Victor! Aqui está a versão **em inglês** do seu `README.md`, com linguagem profissional e fluente, ideal para seu portfólio no GitHub e para atrair atenção internacional:
